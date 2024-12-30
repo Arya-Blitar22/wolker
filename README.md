@@ -2,13 +2,6 @@
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/wolker/main/wic.png)
 
-## Free worker Vless, Trojan, Sadowsock
-Link 1
-https://blitar-jos.web.id/sub
-
-Link 2
-https://kadal-family.biz.id/sub
-
 ## Isp Bebagai Negara
 Jika Link Eror Kena Limit Zone Bukan Brati Gk Konek. Jika Gak Konek Bisa Limit Dari Cloudflare nya Juga Bisa Busuk Koid
 
