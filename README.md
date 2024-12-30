@@ -3,7 +3,6 @@
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/wolker/main/wic.png)
 
 ## Isp Bebagai Negara
-Jika Link Eror Kena Limit Zone Bukan Brati Gk Konek. Jika Gak Konek Bisa Limit Dari Cloudflare nya Juga Bisa Busuk Koid
 
 Udh Tanam wilcard
 - ava.game.naver.com
